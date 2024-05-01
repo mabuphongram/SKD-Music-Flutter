@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831697630789",
+    "project_id": "svrkxmdvm",
+    "storage_bucket": "svrkxmdvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831697630789:android:22bbe50fb338479377952c",
+        "android_client_info": {
+          "package_name": "svrkxmdvm.app.mvkun.svrkxmdvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsM4udXa5LO57-BHrHqt1bqLXH3Y7mdcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
